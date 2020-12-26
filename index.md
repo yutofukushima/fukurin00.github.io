@@ -35,6 +35,6 @@
 
 
 # Contact
-Email: fukurin@ucl.nuee.nagoya-u.ac.jp
+Email: fukurin[^]ucl.nuee.nagoya-u.ac.jp
 
 # Thank you!
