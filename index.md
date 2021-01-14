@@ -4,9 +4,6 @@
 - Bachelor student in the Department of Electrical, Electronics and Information Engineering, School of Engineering, Nagoya University.
 
 
-
-- I also like traveling. I've traveled The U.S., the U.K., France, Netherland by myself.
-
 # Research interest
 - Autonomous Mobile Robot(AMR)
 - Human Robot Interaction(HRI)
@@ -16,7 +13,7 @@
 
 # Education
 - Electrical, Electronics and Information Engineering, Nagoya University, Japan (2017.4-) 
-- Sakuradai High School (2015.4 - 2017.3)
+- Sakuradai High School, Japan (2015.4 - 2017.3)
 
 
 # Publication
