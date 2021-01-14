@@ -8,10 +8,10 @@
 - I also like traveling. I've traveled The U.S., the U.K., France, Netherland by myself.
 
 # Research interest
-- Autonomous mobile robot
-- Human robot interaction
-- Ubiquitous computing
-- Artifical intelligence
+- Autonomous Mobile Robot(AMR)
+- Human Robot Interaction(HRI)
+- Ubiquitous Computing
+- Artifical Intelligence
 
 
 # Education
@@ -33,7 +33,7 @@
 - Python 
 - C++   
 - C# (Unity)
-- ROS, Autoware.AI, Unity, SUMO
+- ROS, Autoware.AI, SUMO(not japanese sport!)
 
 
 # Fun
