@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yuto Fukushima Portfolio
+---
+
 # Yuto Fukushima
 <img src="src/img/myself.png" width="150">
 
