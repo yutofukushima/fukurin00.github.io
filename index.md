@@ -4,7 +4,7 @@ title: Yuto Fukushima Portfolio
 ---
 
 # Yuto Fukushima
-<img src="src/img/myself.png" width="150">
+<img src="assets/img/myself.png" width="150">
 
 # About me
 - Yuto Fukushima is a master student in Nagoya University
