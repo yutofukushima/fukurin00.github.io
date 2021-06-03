@@ -20,9 +20,9 @@ title: Yuto Fukushima Portfolio
 
 
 # Education
-- Information and Communication Engineering, Nagoya University, Japan (2021.4 -)
-- Electrical, Electronics and Information Engineering, Nagoya University, Japan (2017.4 - 2021.3) 
-- Sakuradai High School, Japan (2015.4 - 2017.3)
+- Information and Communication Engineering, Nagoya University, Japan (April, 2021 - now)
+- Electrical, Electronics and Information Engineering, Nagoya University, Japan (Apric, 2017 - March, 2021) 
+- Sakuradai High School, Japan (April,2015 - March, 2017)
 
 # Publication
 ## International Conference
@@ -46,12 +46,12 @@ UbiComp-ISWC '20: Adjunct Proceedings of the 2020 ACM International Joint Confer
 
 # Skills
 ## Programming
-- Javascript/Typescript (React, NodeJs)
+- Javascript/Typescript (React)
 - Go
 - Python 
 - C++
 - C# (Unity)
-- ROS, Autoware.AI, SUMO(Not Japanaese sport!)
+- ROS, Autoware.AI, SUMO(Not Japanese sport!)
 
 
 # Fun
