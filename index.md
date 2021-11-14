@@ -28,12 +28,12 @@ title: Yuto Fukushima Portfolio
 ## International Conference
 - Yuto Fukushima, Yusuke Asai, Shunsuke Aoki, Takuro Yonezawa and Nobuo Kawaguchi, "DigiMobot: Digital Twin for Human-Robot Collaboration in Indoor Environments", In: IEEE Intelligent Vehicles Symposium (IV2021), JULY 2021
 
-## International Workshop
+## International
 - Hitoshi Matsuyama, Takuto Yoshida, Nozomi Hayashida, Yuto Fukushima, Takuro Yonezawa, Nobuo Kawaguchi
 Nurse Care Activity Recognition Challenge: A Comparative Verification of Multiple Preprocessing Approaches
 UbiComp-ISWC '20: Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computer, 2020.07
 
-## Domestic Conference 
+## Domestic
 - 福島 悠人, 浅井 悠佑, 浦野 健太, 青木 俊介, 米澤 拓郎, 河口 信夫, "時空間ルーティングを用いた複数自律移動ロボットの協調走行", マルチメディア、分散、協調とモバイル DICOMO2021シンポジウム
 
 
