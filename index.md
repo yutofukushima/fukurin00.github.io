@@ -21,8 +21,12 @@ title: Yuto Fukushima Portfolio
 
 # Education
 - Information and Communication Engineering, Nagoya University, Japan (April, 2021 - now)
-- Electrical, Electronics and Information Engineering, Nagoya University, Japan (Apric, 2017 - March, 2021) 
-- Sakuradai High School, Japan (April,2015 - March, 2017)
+- Electrical, Electronics and Information Engineering, Nagoya University, Japan (April, 2017 - March, 2021) 
+- Sakuradai High School, Japan (April,2014 - March, 2017)
+
+# Work Experience
+- Amazon Software Development Engineer Internship (February, 2022 - March, 2022)
+- Research Assistant, Nagoya University (September, 2021 - January, 2022)
 
 # Publication
 ## International Conference
@@ -38,6 +42,8 @@ UbiComp-ISWC '20: Adjunct Proceedings of the 2020 ACM International Joint Confer
 
 
 # Award
+- OGIS-RI Software Challenge Award 2022 特別賞, 国内産鯖, https://www.ogis-ri.co.jp/otc/contest/osca2021/judge.html
+- JEES・Softbank AI Scholarship (April, 2021 - March, 2022)
 - Takuto Yoshida, Kenta Urano, Yusuke Asai, Nobuya Fukatani, Nozomi Hayashida, Yoshiteru Nagata, Yuto Fukushima Winner of IPIN2020 competition Track 5: xDR in manufacturing (PDR,VDR sub-track), http://evaal.aaloa.org/2020/results
 
 # Qualification
@@ -46,19 +52,17 @@ UbiComp-ISWC '20: Adjunct Proceedings of the 2020 ACM International Joint Confer
 
 # Skills
 ## Programming
-- Javascript/Typescript (React)
+- Javascript/Typescript
 - Go
-- Python 
+- Python
 - C++
 - C# (Unity)
-- ROS, Autoware.AI, SUMO(Not Japanese sport!)
 
 
 # Fun
 - Travel
 - Movie
 - Music
-- English
 - Programming   
 
 
