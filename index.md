@@ -7,7 +7,7 @@ title: Yuto Fukushima Portfolio
 <img src="assets/img/myself.png" width="150">
 
 # About me
-- Yuto Fukushima is a master student in Nagoya University
+- Yuto Fukushima is a student in Graduate School at Nagoya University (Master's Degree Program)
 - Kawaguchi Laboratory: (https://www.ucl.nuee.nagoya-u.ac.jp/)
 
 
